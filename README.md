@@ -1,2 +1,2 @@
 # CS170
-Artificial Intelligence
+Artificial Intelligence; Machine Learning course at UCR
